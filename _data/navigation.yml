@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Articles
+  url: /
+  excerpt: "Articles written for KnucklePuck"
+  image: "IceHockey_300x200.png"
+
+- title: About Us
+  url: /aboutus/
+  excerpt: "Get to know the authors of KnucklePuck."
+  image: "Skates_300x200.png"
+  
+- title: Contact Us
+  url: /contactus/
+  excerpt: "Contact us by email, Twitter, or pigeon."
+  image: "Skates2_300x187.png"

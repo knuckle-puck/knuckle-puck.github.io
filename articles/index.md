@@ -1,7 +1,11 @@
 ---
 layout: archive
-permalink: /
-title: Articles
+title: "Articles"
+date: 
+excerpt: 
+image:
+  feature: 
+  teaser:
 ---
 
 <div class="tiles">
