@@ -17,7 +17,7 @@ image:
 
 With the fantasy hockey season upon us it is time to review the top 250 players. One of the more reliable and widely used fantasy hockey websites is Yahoo.com. Unfortunately, Yahoo's rankings are not always provided in the easiest to use format. To make the rankings easier to use and analyze, we've written a script that converts this top-250 list into Excel.
 
-The Excel file and the code that we used to build the Excel file are available at this link: https://github.com/knuckle-puck/hockey-data
+The Excel file and the code that we used to build the Excel file are available for free at our [GitHub repository](https://github.com/knuckle-puck/hockey-data).
 
 The Excel file contains the Yahoo Rank (compiled from a number of their own experts), Player Name, Player Position (according to Yahoo eligibility), the Player's Team, and whether the player is currently a pending UFA/RFA at the end of this coming season.
 
