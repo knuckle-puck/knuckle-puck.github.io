@@ -5,6 +5,7 @@ author: "KnucklePuck"
 excerpt: "An statistical introduction to the height and weight of NHL players."
 categories: 
 date: 2018-08-29
+comments: true
 modified:
 image:
   feature:
