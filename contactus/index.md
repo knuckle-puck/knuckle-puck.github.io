@@ -8,4 +8,6 @@ image:
   teaser:
 ---
 
-This site currently under construction...
+If you have any comments, suggestions, or ideas for future articles please send us an email: 
+
+knucklepuck.blog@gmail.com 
