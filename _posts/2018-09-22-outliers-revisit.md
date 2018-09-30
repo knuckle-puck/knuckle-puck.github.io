@@ -9,7 +9,7 @@ modified:
 comments: true
 image:
   feature:
-  teaser: Baby_300x200.jpg
+  teaser: Calendar_300x200.jpg
   thumb:
 ---
 
